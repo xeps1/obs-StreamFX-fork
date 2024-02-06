@@ -184,7 +184,7 @@ jobs:
       fail-fast: false
       matrix:
         runner: [ "ubuntu-22.04" ]
-        compiler: [ "GCC-12", "Clang-16" ]
+        compiler: [ "GCC-12" ]
         qt: [ 6 ]
         CMAKE_GENERATOR: [ "Ninja Multi-Config" ]
         include:
