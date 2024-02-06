@@ -8,6 +8,7 @@ Upgrade your setup with several modern sources, filters, transitions and encoder
 <a href="https://github.com/Xaymar/obs-StreamFX/actions"><img src="https://github.com/Xaymar/obs-StreamFX/actions/workflows/main.yml/badge.svg" alt="CI Status" /></a>
 <a href="https://crowdin.com/project/obs-stream-effects"><img src="https://badges.crowdin.net/obs-stream-effects/localized.svg" alt="Crowdin Status" /></a>
 
+
 </p>
 ++++
 
